@@ -1,4 +1,4 @@
-package com.deep.classcatalogue.classcatalogue;
+package com.deep.classcatalogue;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
